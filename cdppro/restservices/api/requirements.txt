@@ -5,5 +5,5 @@ mysql-connector-python==8.0.15
 mysqlclient==1.4.2
 html5lib==1.0.1
 pandas==0.24.2
-uwsgi==2.0.18
+uwsgi==2.0.22
 applicationinsights==0.11.9
