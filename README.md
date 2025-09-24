@@ -1,4 +1,4 @@
-﻿# Code Defect AI (Documentation) -- [Altran](https://www.altran.com)
+# Code Defect AI (Documentation) -- [Altran](https://www.altran.com)
 
 ## Description
 Code Defect AI is a machine learning classifier that predicts committed source code files carrying a higher risk of a bug based on historical commits. 
@@ -25,6 +25,7 @@ For the final deployment of Code Defect AI on Azure infrastructure, following co
 These elements form the architecture as follows:
 
 ![Code Defect AI Architecture](cdppro/images/cdpaiarch3.jpg)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FMetras%2Fcodedefectai.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FMetras%2Fcodedefectai?ref=badge_shield)
 
 
 ## Installation/ Deployment
@@ -42,3 +43,6 @@ Please refer to [installation document](documentation/installation/CodeDefectAI_
 ## License
 Licensed under the Apache License, Version 2.0 (the "License"). Please refer to [License](license.txt) for more details.
 
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FMetras%2Fcodedefectai.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FMetras%2Fcodedefectai?ref=badge_large)
